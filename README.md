@@ -23,7 +23,6 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Virtualized IT Infrastructure Lab
 
 🤝 **Connect with me**
-- LinkedIn
 <a href="www.linkedin.com/in/giovanny-jr-valerio-perdomo-6202a4138" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
