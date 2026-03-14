@@ -1,3 +1,4 @@
+```markdown
 ## Hi, I'm Giovanny
 
 Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
@@ -14,4 +15,17 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Automation scripts and tools
 - Programming projects
 
-I use this space to document what I learn and build practical skills through real projects.
+👨‍💻 **Information Technology Projects**
+- Active Directory Domain Lab
+- Windows Server Domain Controller Setup
+- PowerShell Environment Monitoring Script
+- Windows Service Monitoring Automation
+- Networking and Packet Analysis Labs (Wireshark)
+- Virtualized IT Infrastructure Lab
+
+🤝 **Connect with me**
+- LinkedIn
+```
+with me:
+Josh | TwitterJosh | LinkedInJosh | Instagram
+
