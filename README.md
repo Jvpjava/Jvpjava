@@ -15,7 +15,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Programming projects
 
 👨‍💻 **Information Technology Projects**
-- Active Directory Domain Lab
+- [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
 - Windows Server Domain Controller Setup
 - PowerShell Environment Monitoring Script
 - Windows Service Monitoring Automation
