@@ -1,4 +1,3 @@
-```markdown
 ## Hi, I'm Giovanny
 
 Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
@@ -25,7 +24,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 
 🤝 **Connect with me**
 - LinkedIn
-```
-with me:
-Josh | TwitterJosh | LinkedInJosh | Instagram
+<a href="www.linkedin.com/in/giovanny-jr-valerio-perdomo-6202a4138" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 
