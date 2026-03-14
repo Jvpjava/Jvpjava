@@ -1,4 +1,4 @@
-## Hi, I'm Giovanny
+## Hi, I'm Giovanny Jr
 
 Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
 
