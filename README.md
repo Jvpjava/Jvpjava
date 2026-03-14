@@ -17,7 +17,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 👨‍💻 **Information Technology Projects**
 - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
 - Windows Server Domain Controller Setup
-- PowerShell Environment Monitoring Script
+- [PowerShell Environment Monitoring](https://github.com/Jvpjava/powershell-environment-monitoring)  
 - Windows Service Monitoring Automation
 - Networking and Packet Analysis Labs (Wireshark)
 - Virtualized IT Infrastructure Lab
