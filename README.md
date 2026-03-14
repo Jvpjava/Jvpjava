@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Giovanny
 
-<!--
-**Jvpjava/Jvpjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
 
-Here are some ideas to get you started:
+### Areas of Focus
+- Networking and infrastructure (CCNA studies)
+- Systems administration and Active Directory
+- Automation with PowerShell
+- Programming with Java, JavaScript, HTML, and CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What You'll Find Here
+- IT home lab projects
+- Networking practice and configuration labs
+- Automation scripts and tools
+- Programming projects
+
+I use this space to document what I learn and build practical skills through real projects.
