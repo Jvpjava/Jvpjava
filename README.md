@@ -33,4 +33,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 <a href="https://www.facebook.com/junior.valerio.628592">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </a>
+<a href="https://www.youtube.com/@TrollingGenius">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+</a>
 
