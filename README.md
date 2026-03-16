@@ -30,4 +30,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 <a href="https://www.linkedin.com/in/giovanny-jr-valerio-perdomo-6202a4138" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+<a href="https://www.facebook.com/junior.valerio.628592">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+</a>
 
