@@ -18,7 +18,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
 - [osTicket Help Desk Deployment and Incident Management Lab](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 - [PowerShell Environment Monitoring](https://github.com/Jvpjava/powershell-environment-monitoring)  
-- Windows Service Monitoring Automation
+- DNS Configuration and Resolution Lab (VirtualBox + Active Directory)
 - Networking and Packet Analysis Labs (Wireshark)
 - Virtualized IT Infrastructure Lab
 
