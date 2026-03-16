@@ -34,6 +34,6 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.youtube.com/@TrollingGenius">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
 </a>
 
