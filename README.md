@@ -19,7 +19,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
   - [PowerShell Environment Monitoring](https://github.com/Jvpjava/powershell-environment-monitoring)
 - <b>Network Projects</b>
   - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
-  - [Azure VPN Setup and Usage Lab]
+  - [Azure VPN Setup and Usage Lab](https://github.com/Jvpjava/Azure-VPN-Setup-and-Usage-Lab)
 - <b>Ticketing Projects</b>
   - [osTicket Help Desk Deployment — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 
