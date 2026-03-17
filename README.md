@@ -23,7 +23,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
   - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
   - DNS Configuration and Resolution Lab (VirtualBox + Active Directory)
 - <b>Ticketing Projects</b>
-  - [osTicket Help Desk Deployment and Incident Management Lab](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
+  - [osTicket Help Desk Deployment — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 
 🤝 **Connect with me:**
 
