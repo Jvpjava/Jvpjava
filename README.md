@@ -23,7 +23,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
   - [CCNA Home Lab](https://github.com/Jvpjava/CCNA-Home-Lab)
 - <b>Ticketing Projects</b>
   - [osTicket Help Desk Deployment — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
-  - [osTicket Help Desk Deployment — Part 2 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
+  - [osTicket Help Desk Deployment — Part 2 (Post Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
   - [osTicket Help Desk Deployment — Part 3 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 
 🤝 **Connect with me:**
