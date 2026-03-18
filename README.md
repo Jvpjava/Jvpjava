@@ -20,7 +20,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - <b>Network Projects</b>
   - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
   - [Azure VPN Setup and Usage Lab](https://github.com/Jvpjava/Azure-VPN-Setup-and-Usage-Lab)
-  - [CCNA Home Lab](https://github.com/Jvpjava/CCNA-Home-Lab)
+  - [CCNA Home Lab (In Progress)](https://github.com/Jvpjava/CCNA-Home-Lab)
 - <b>Ticketing Projects</b>
   - [osTicket Help Desk Deployment — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
   - [osTicket Help Desk Deployment — Part 2 (Post Installation Set-Up)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
