@@ -1,22 +1,22 @@
 ## Hi, I'm Giovanny Jr
 
-Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
+Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home lab environments to understand how real IT systems operate.
 
-## Degree & Certifications
-- [Computer Science Degree]()
-- [CompTIA A+ Ce](https://github.com/Jvpjava/CompTIA-A-Ce-Certification/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
+### 🎓 Education & Certifications
+- Bachelor’s Degree in Computer Science  
+- [CompTIA A+ Certified](https://github.com/Jvpjava/CompTIA-A-Ce-Certification/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
 
-### Areas of Focus
-- Networking and infrastructure (CCNA studies)
-- Systems administration and Active Directory
-- Programming with Java, Python, and Poweshell
-- Computer Optimization & Repair
+### 🔧 Areas of Focus
+- Networking and infrastructure (CCNA studies)  
+- Systems administration and Active Directory  
+- Programming (Java, Python, PowerShell)  
+- Computer optimization and troubleshooting  
 
-### What You'll Find Here
-- IT home lab projects
-- Networking practice and configuration labs
-- Automation scripts and tools
-- Programming projects
+### 📁 What You'll Find Here
+- IT home lab projects  
+- Networking labs and configurations  
+- Automation scripts and tools  
+- Programming projects  
 
 👨‍💻 **Information Technology Projects**
 - <b>Scripting Projects</b>
