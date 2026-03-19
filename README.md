@@ -9,8 +9,8 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 ### Areas of Focus
 - Networking and infrastructure (CCNA studies)
 - Systems administration and Active Directory
-- Automation with PowerShell
 - Programming with Java, Python, and Poweshell
+- Computer Optimization & Repair
 
 ### What You'll Find Here
 - IT home lab projects
