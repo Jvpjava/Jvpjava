@@ -30,15 +30,21 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
   - [osTicket Help Desk Deployment with Virtualbox— Part 2 (Post Installation Set-Up)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
   - [osTicket Help Desk Deployment with Virtualbox— Part 3 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 
-🤝 **Connect with me:**
+<div align="center">
 
-<a href="https://www.linkedin.com/in/giovanny-jr-valerio-perdomo-6202a4138" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.facebook.com/junior.valerio.628592">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.youtube.com/@TrollingGenius">
-  <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
-</a>
+### 🤝 Connect with me
+
+  <a href="https://www.linkedin.com/in/giovanny-jr-valerio-perdomo-6202a4138" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 10px;"/>
+  </a>
+  
+  <a href="https://www.facebook.com/junior.valerio.628592">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" style="margin: 0 10px;"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@TrollingGenius">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" style="margin: 0 10px;"/>
+  </a>
+
+</div>
 
