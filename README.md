@@ -2,6 +2,10 @@
 
 Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home labs to better understand how real IT environments operate.
 
+## Degree & Certifications
+- [Computer Science Degree]()
+- [CompTIA A+ Ce](https://github.com/Jvpjava/CompTIA-A-Ce-Certification/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
+
 ### Areas of Focus
 - Networking and infrastructure (CCNA studies)
 - Systems administration and Active Directory
