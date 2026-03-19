@@ -10,7 +10,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Networking and infrastructure (CCNA studies)
 - Systems administration and Active Directory
 - Automation with PowerShell
-- Programming with Java, JavaScript, HTML, and CSS
+- Programming with Java, Python, and Poweshell
 
 ### What You'll Find Here
 - IT home lab projects
