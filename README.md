@@ -6,14 +6,14 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Bachelor’s Degree in Computer Science  
 - [CompTIA A+ Certified](https://github.com/Jvpjava/CompTIA-A-Ce-Certification/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
 
-### 🔧 Focus & Projects
+### What You'll Find Here
 - Networking and infrastructure (CCNA studies)  
 - Systems administration and Active Directory  
 - Automation with PowerShell  
 - Programming (Java, Python)  
 - IT home lab and real-world simulations  
 
-👨‍💻 **Information Technology Projects**
+**Information Technology Projects**
 - <b>Scripting Projects</b>
   - [PowerShell Environment Monitoring](https://github.com/Jvpjava/powershell-environment-monitoring)
 - <b>Network Projects</b>
