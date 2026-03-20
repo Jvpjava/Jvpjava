@@ -8,10 +8,11 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 
 ### What You'll Find Here
 - Networking and infrastructure (CCNA studies)  
-- Systems administration and Active Directory  
+- Systems administration (Windows & Linux)  
+- Active Directory  
 - Automation with PowerShell  
 - Programming (Java, Python)  
-- IT home lab and real-world simulations  
+- IT home lab and real-world simulations 
 
 **Information Technology Projects**
 - <b>Scripting Projects</b>
