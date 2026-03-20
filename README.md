@@ -3,8 +3,8 @@
 Programmer and IT enthusiast focused on networking, systems administration, and automation. I build hands-on projects and home lab environments to understand how real IT systems operate.
 
 ### 🎓 Education & Certifications
-- Bachelor’s Degree in Computer Science  
-- [CompTIA A+ Certified](https://github.com/Jvpjava/CompTIA-A-Ce-Certification/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
+- [Bachelor’s Degree in Computer Science](https://github.com/Jvpjava/Degree-and-Certifications/blob/main/Bachelor's%20Degree/Computer%20Science%20Degree.jpeg)
+- [CompTIA A+ Certified](https://github.com/Jvpjava/Degree-and-Certifications/blob/main/Certifications/CompTIA%20A%2B%20ce%20certificate.pdf)
 
 ### What You'll Find Here
 - Networking and infrastructure (CCNA studies)  
