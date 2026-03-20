@@ -24,7 +24,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - <b>Ticketing Projects</b>
   - [osTicket Help Desk Deployment with Virtualbox — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
   - [osTicket Help Desk Deployment with Virtualbox— Part 2 (Post Installation Set-Up)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
-  - [osTicket Help Desk Deployment with Virtualbox— Part 3 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
+  - [osTicket Help Desk Deployment with Virtualbox— Part 3 (System Installation)](https://github.com/Jvpjava/osTicket-Ticket-Lifecycle-Lab)
 
 <div align="center">
 
