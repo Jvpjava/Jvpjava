@@ -18,9 +18,9 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - <b>Scripting Projects</b>
   - [PowerShell Environment Monitoring](https://github.com/Jvpjava/powershell-environment-monitoring)
 - <b>Network Projects</b>
+  - [Cisco CCNA Labs](https://github.com/Jvpjava/Cisco-CCNA-200-301-Labs---Jeremy-s-IT-Lab)
   - [Azure Network Traffic Analysis Lab](https://github.com/Jvpjava/Azure-Network-Traffic-Analysis-Lab)
   - [Azure VPN Setup and Usage Lab](https://github.com/Jvpjava/Azure-VPN-Setup-and-Usage-Lab)
-  - [Cisco CCNA Labs](https://github.com/Jvpjava/Cisco-CCNA-200-301-Labs---Jeremy-s-IT-Lab)
 - <b>Ticketing Projects</b>
   - [osTicket Help Desk Deployment with Virtualbox — Part 1 (System Installation)](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
   - [osTicket Help Desk Deployment with Virtualbox — Part 2 (Post Installation Set-Up)](https://github.com/Jvpjava/osTicket-Help-Desk-Lab-VirtualBox-/tree/main)
