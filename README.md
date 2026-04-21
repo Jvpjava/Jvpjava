@@ -11,7 +11,7 @@ Programmer and IT enthusiast focused on networking, systems administration, and 
 - Systems administration (Windows & Linux)  
 - Active Directory  
 - Automation with PowerShell  
-- Programming (Java, Python)  
+- Programming (Java, [Python]())  
 - IT home lab and real-world simulations 
 
 **Information Technology Projects**
